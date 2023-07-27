@@ -1,16 +1,33 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hi+there%2C+I'm+Bonne!)](https://git.io/typing-svg)
 
-<!--
-**BFranse/BFranse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product owner with experience as backend developer in Ruby on Rails.
+<br><br>
+🧠 **I'm currently learning:**
+<br><br>
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-Here are some ideas to get you started:
+⭐ **Experience with:**
+<br><br>
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **About me:**
+```ruby
+def about_me
+  {
+    eclectic_interests: true,
+    nerd: true,
+    interests: [videogames, tech, economics, different_countries, fantasy_media],
+    hobbies: [videogames, technical_writing, game_development, home_improvement],
+    goals:
+      {
+        short_term: "Contribute to open source projects",
+        long_term: "Publish a game" || "Be involved in a published game"
+      }
+  }
+end
+```
