@@ -4,6 +4,7 @@ Product owner with experience as backend developer in Ruby on Rails.
 <br><br>
 🧠 **I'm currently learning:**
 <br><br>
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
