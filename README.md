@@ -4,7 +4,7 @@ Product owner with experience as backend developer in Ruby on Rails.
 <br><br>
 🧠 **I'm currently learning:**
 <br><br>
-![Webflow](https://img.shields.io/badge/Javascript-146EF5?style=for-the-badge&logo=webflow&logoColor=white&labelColor=146EF5)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white&labelColor=146EF5)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 
 ⭐ **Experience with:**
