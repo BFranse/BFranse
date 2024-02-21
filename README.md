@@ -4,9 +4,8 @@ Product owner with experience as backend developer in Ruby on Rails.
 <br><br>
 🧠 **I'm currently learning:**
 <br><br>
+![Webflow](https://img.shields.io/badge/Javascript-146EF5?style=for-the-badge&logo=webflow&logoColor=white&labelColor=146EF5)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ⭐ **Experience with:**
 <br><br>
@@ -15,6 +14,8 @@ Product owner with experience as backend developer in Ruby on Rails.
 ![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 💡 **About me:**
 ```ruby
