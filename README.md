@@ -29,7 +29,7 @@ def about_me
     hobbies: [videogames, technical_writing, game_development, home_improvement],
     goals:
       {
-        short_term: "Contribute to open source projects",
+        short_term: ["Build a nocode/lowcode project", "Contribute to open source projects"],
         long_term: "Publish a game" || "Be involved in a published game"
       }
   }
