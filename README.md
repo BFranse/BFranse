@@ -22,7 +22,7 @@ def about_me
   {
     eclectic_interests: true,
     nerd: true,
-    interests: [videogames, tech, economics, different_countries, fantasy_media, IoT],
+    interests: [videogames, tech, economics, different_countries, fantasy_media, iot],
     hobbies: [videogames, technical_writing, game_development, home_improvement],
     goals:
       {
