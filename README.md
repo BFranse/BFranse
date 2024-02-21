@@ -5,8 +5,8 @@ Product owner with experience as backend developer in Ruby on Rails.
 🧠 **I'm currently learning:**
 <br><br>
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white&labelColor=146EF5)
-![Zapier](https://img.shields.io/badge/Zapier-#FF4F00?style=for-the-badge&logo=zapier&logoColor=white&labelColor=#FF4F00)
-![Airtable](https://img.shields.io/badge/Airtable-##18BFFF?style=for-the-badge&logo=airtable&logoColor=white&labelColor=##18BFFF)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white&labelColor=FF4F00)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white&labelColor=18BFFF)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 
 ⭐ **Experience with:**
