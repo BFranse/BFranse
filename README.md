@@ -36,9 +36,9 @@ def about_me
     hobbies: [videogames, game_development, home_improvement],
     goals:
       {
-        short_term: ["Contribute to open source projects", "Start a company"],
+        short_term: ["Contribute to open source projects", "Learn Godot"],
         long_term: "Publish a game" || "Be involved in a published game"
-        accomplished: "Build a nocode/lowcode project"
+        accomplished: ["Build a nocode/lowcode project", "Start a company"]
       }
   }
 end
