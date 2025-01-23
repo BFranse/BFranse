@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hi+there%2C+I'm+Bonne!)](https://git.io/typing-svg)
 
-Product owner with experience as backend developer in Ruby on Rails.
+Product owner at [Yobbers](https://www.yobbers.com) and co-founder [Yseasonal](https://www.yseasonal.com)
 <br><br>
 🧠 **On my radar:**
 <br><br>
