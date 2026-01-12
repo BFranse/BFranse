@@ -1,11 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hi+there%2C+I'm+Bonne!)](https://git.io/typing-svg)
+<h1>Hi, I'm Bonne 👋</h1>
 
-Product owner at [Yobbers](https://www.yobbers.com) and co-founder [Yseasonal](https://www.yseasonal.com)
+Product owner at [Yobbers](https://www.yobbers.com) and co-founder [Yseasonal](https://www.yseasonal.com).
 <br><br>
-🧠 **On my radar:**
+🧠 **Currently interested in:**
 <br><br>
 ![Godot Engine](https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotEngine&logoColor=white&labelColor=478CBF)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=D97757)
+![Pop!_OS](https://img.shields.io/badge/Popos-48B9C7?style=for-the-badge&logo=popos&logoColor=white&labelColor=48B9C7)
 
 ⭐ **Experienced with:**
 <br><br>
@@ -32,12 +34,12 @@ def about_me
     eclectic_interests: true,
     nerd: true,
     dad: true,
-    interests: [videogames, tech, economics, different_countries, fantasy_media, iot, no_code, low_code, webdev],
+    interests: [videogames, tech, economics, different_countries, fantasy_media, iot, no_code, low_code, webdev, AI],
     hobbies: [videogames, game_development, home_improvement],
     goals:
       {
         short_term: ["Contribute to open source projects", "Learn Godot"],
-        long_term: "Publish a game" || "Be involved in a published game"
+        long_term: "Publish a game on Steam",
         accomplished: ["Build a nocode/lowcode project", "Start a company"]
       }
   }
