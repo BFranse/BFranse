@@ -5,7 +5,7 @@ Product owner at [Yobbers](https://www.yobbers.com) and co-founder [Yseasonal](h
 🧠 **Currently interested in:**
 <br><br>
 ![Godot Engine](https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotEngine&logoColor=white&labelColor=478CBF)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D)
+![blockbench](https://img.shields.io/badge/-Blockbench-1E93D9?style=for-the-badge&logo=Blockbench&logoColor=white&labelColor=#1E93D9)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=D97757)
 ![Pop!_OS](https://img.shields.io/badge/Popos-48B9C7?style=for-the-badge&logo=popos&logoColor=white&labelColor=48B9C7)
 
