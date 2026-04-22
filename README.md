@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bonne 👋</h1>
 
-Product owner at [Yobbers](https://www.yobbers.com) and co-founder [Yseasonal](https://www.yseasonal.com).
+Co-founder [Yseasonal](https://www.yseasonal.com).
 <br><br>
 🧠 **Currently interested in:**
 <br><br>
